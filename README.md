@@ -12,11 +12,8 @@ I am a highly enthusiastic and sharp learner with impressive listening and speak
 | **Hobbies**                  | DIY Disassembly 🔧       | Playing Indoor Games 🎲| Listening to Music 🎵| Watching Web-Series 📺|
 |------------------------------|---------------------------|------------------------|----------------------|------------------------|
 
-| **Skills**                   | MS Excel 📊             | MS PowerPoint 🖥️      | DevOps 🛠️          | Machine Learning 🤖  |
-|                              | C Programming 🅾️       | Java Programming ☕    | Python Programming 🐍|                      |
+| **Skills**                   | MS Excel 📊     | MS PowerPoint 🖥️      | DevOps 🛠️          | Machine Learning 🤖 | C Programming 🅾️ | Java Programming ☕    | Python Programming 🐍| 
+|------------------------------|-----------------|------------------------|--------------------|----------------------|------------------|-------------------------|----------------------|
 
-
-
-Feel free to reach out for collaboration or further information! 📫
 
 Feel free to reach out for collaboration or further information! 📫
