@@ -1,4 +1,4 @@
-# Hi there, I'm Brijesh A H! 👋
+# Hi there, I'm Brijesh! 👋
 
 I'm a highly enthusiastic and sharp learner with impressive listening and speaking skills. Eagerly looking forward to learning, discovering, and innovating in the emerging field of AI and Machine Learning as a Data Scientist Aspirant. 🚀
 
