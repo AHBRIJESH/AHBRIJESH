@@ -20,20 +20,6 @@ I am a highly enthusiastic and sharp learner with impressive listening and speak
 - Listening to Music 🎵
 - Watching Web-Series 📺
 
-## Education
-- **Rajiv Gandhi College of Engineering:** Pursuing a bachelor’s degree in computer science engineering with an exceptional CGPA of 8.1 after the completion of the fourth semester. Demonstrated consistent academic excellence, active participation in campus activities, and maintained an unblemished record without any backlogs.
-- **Kendriya Vidyalaya Nagercoil:** Completed schooling with an impressive 85% academic achievement, maintaining an untarnished record. Engaged in various co-curricular activities, notably participating in numerous debates, highlighting a commitment to holistic development and positive contributions to the school community.
-
-## Projects & Job Simulation Experiences
-- **Cognizant Artificial Intelligence Job Simulation:** Successfully completed tasks for Cognizant's Data Science team, encompassing exploratory data analysis using Python and Google CoLab for Gala Groceries, a technology-led client. Prepared a Python module with code for model training and performance metrics for the Machine Learning engineering team, presenting concise and insightful results in a PowerPoint slide. This experience enhanced Cognizant's AI capabilities, providing valuable insights for making informed business decisions.
-- **Mini Projects:**
-  - IBM Certification Projects
-  - Mean Shift Clustering Algorithm
-  - Student Success Predictor using Naive Bayes
-  - Handwritten digit Classifier with Neural Network
-  - Diabetes Prediction using Decision Tree Classifier
-  - Sentence Emotion Classifier with Neural Network
-
 ## Skills
 - MS Excel: 📊
 - MS PowerPoint: 🖥️
