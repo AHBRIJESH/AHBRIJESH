@@ -6,27 +6,11 @@ I am a highly enthusiastic and sharp learner with impressive listening and speak
 - **GitHub Profile:** [https://github.com/AHBRIJESH](https://github.com/AHBRIJESH)
 - **LinkedIn Profile:** [https://www.linkedin.com/in/brijeshah](https://www.linkedin.com/in/brijeshah)
 
-| **Language Skills** | 🇬🇧 English | 🇮🇳 Hindi | 🌴 Tamil | 🌴 Malayalam |
-|---------------------|-------------|-----------|----------|--------------|
-| Reading             | ✔️          | ✔️        | ✔️       | ✔️           |
-| Writing             | ✔️          | ✔️        | ✔️       | ✔️           |
-| Speaking            | ✔️          | ✔️        |          |              |
+| **Language Skills** | 🇬🇧 English ✔️ ✔️ ✔️ | 🇮🇳 Hindi ✔️ ✔️ | 🌴 Tamil ✔️ ✔️ | 🌴 Malayalam ✔️ ✔️ |
+| **Hobbies** | DIY Disassembly 🔧 | Playing Indoor Games 🎲 | Listening to Music 🎵 | Watching Web-Series 📺 |
+| **Skills** | MS Excel 📊 | MS PowerPoint 🖥️ | DevOps 🛠️ | Machine Learning 🤖 | C Programming 🅾️ | Java Programming ☕ | Python Programming 🐍 |
 
-| **Hobbies**          |                  |
-|----------------------|------------------|
-| DIY Disassembly      | 🔧                |
-| Playing Indoor Games | 🎲                |
-| Listening to Music   | 🎵                |
-| Watching Web-Series  | 📺                |
 
-| **Skills**           |                  |
-|----------------------|------------------|
-| MS Excel             | 📊                |
-| MS PowerPoint        | 🖥️               |
-| DevOps               | 🛠️               |
-| Machine Learning     | 🤖               |
-| C Programming        | 🅾️                |
-| Java Programming     | ☕                |
-| Python Programming   | 🐍                |
+Feel free to reach out for collaboration or further information! 📫
 
 Feel free to reach out for collaboration or further information! 📫
