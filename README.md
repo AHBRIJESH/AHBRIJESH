@@ -8,7 +8,6 @@ I'm a highly enthusiastic and sharp learner with impressive listening and speaki
 
 | **🇬🇧 English** (S/R/W) | **🇮🇳 Hindi** (S/R/W) | **🌴 Tamil** (S/R) | **🌴 Malayalam** (S) |
 |--------------------------|------------------------|---------------------|----------------------|
-| ✔️                       | ✔️                     | ✔️                   | ✔️                    |
 
 ---
 
@@ -16,7 +15,6 @@ I'm a highly enthusiastic and sharp learner with impressive listening and speaki
 
 | DIY Disassembly 🔧     | Playing Indoor Games 🎲 | Listening to Music 🎵 | Watching Web-Series 📺 |
 |------------------------|-------------------------|-----------------------|-------------------------|
-| 🛠️                     | 🎲                       | 🎵                     | 📺                       |
 
 ---
 
