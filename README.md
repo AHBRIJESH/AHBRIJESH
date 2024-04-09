@@ -1,5 +1,5 @@
 # Brijesh A H
-I am a highly enthusiastic and sharp learner with impressive listening and speaking skills. Eagerly looking forward to learning, discovering, and innovating in the emerging field of AI and Machine Learning as a Data Scientist Aspirant. Committed to upholding the values of loyalty and truthfulness in every aspect of my professional journey. With unwavering integrity, I aspire to contribute my dedicated efforts and genuine sincerity to create a positive and trustworthy impact in any role I undertake. 🚀
+I am a highly enthusiastic and sharp learner with impressive listening and speaking skills. Eagerly looking forward to learning, discovering, and innovating in the emerging field of AI and Machine Learning as a Data Scientist Aspirant.🚀
 
 ## Contact
 - **Email:** ✉️ ahbrijesh2004@gmail.com
