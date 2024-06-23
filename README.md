@@ -17,8 +17,8 @@ I'm a highly enthusiastic and sharp learner with impressive listening and speaki
 
 ## Skills 🚀
 
-| MS Excel 📊 | MS PowerPoint 🖥️ | DevOps 🛠️ | Machine Learning 🤖 | C Programming 🅾️ | Java Programming ☕ | Python Programming 🐍 | SAP ERP 💼 |
-|-------------|---------------------|------------|----------------------|-------------------|----------------------|-----------------------|--------------|
+| MS Excel 📊 | MS PowerPoint 🖥️ | Machine Learning 🤖 | C Programming 🅾️ | Java Programming ☕ | Python Programming 🐍 | SAP ERP 💼 |
+|-------------|---------------------|----------------------|-------------------|----------------------|-----------------------|--------------|
 
 
 Feel free to reach out for collaboration or further information! 📫
