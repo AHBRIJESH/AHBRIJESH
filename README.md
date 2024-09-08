@@ -17,7 +17,7 @@ I'm a highly enthusiastic and sharp learner with impressive listening and speaki
 
 ## Skills 🚀
 
-| MS Excel 📊 | MS PowerPoint 🖥️ | Machine Learning 🤖 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Python Programming 🐍 | SAP ERP 💼 |
+| MS Excel 📊 | MS PowerPoint 🖥️ | Machine Learning 🤖 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png) | SAP ERP 💼 |
 |-------------|---------------------|----------------------|-------------------|----------------------|-----------------------|--------------|
 
 ## Tech Stack 💻 
