@@ -5,8 +5,10 @@ I'm a highly enthusiastic and sharp learner with impressive listening and speaki
 
 ## Language Skills 🌟
 
-| **🇬🇧 English** (S/R/W) | **🇮🇳 Hindi** (S/R/W) | **🌴 Tamil** (S/R) | **🌴 Malayalam** (S) |
-|--------------------------|------------------------|---------------------|----------------------|
+## Language Skills 🌟
+
+| ![English](https://img.shields.io/badge/English-(S%2FR%2FW)-blue?style=for-the-badge&logo=globe&logoColor=white) 🇬🇧 | ![Hindi](https://img.shields.io/badge/Hindi-(S%2FR%2FW)-orange?style=for-the-badge&logo=india&logoColor=white) 🇮🇳 | ![Tamil](https://img.shields.io/badge/Tamil-(S%2FR)-green?style=for-the-badge&logo=tamil-nadu&logoColor=white) 🌴 | ![Malayalam](https://img.shields.io/badge/Malayalam-(S)-purple?style=for-the-badge&logo=kerala&logoColor=white) 🌴 |
+
 
 
 ## Hobbies 🎯
