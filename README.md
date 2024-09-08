@@ -2,19 +2,10 @@
 
 I'm a highly enthusiastic and sharp learner with impressive listening and speaking skills. Eagerly looking forward to learn, discover, and innovate in the emerging field of AI and Machine Learning as a AI Engineer Aspirant. 🚀
 
-
 ## Language Skills 🌟
 
-## Language Skills 🌟
-
-| ![English](https://img.shields.io/badge/English-(S%2FR%2FW)-blue?style=for-the-badge&logo=globe&logoColor=white) 🇬🇧 | ![Hindi](https://img.shields.io/badge/Hindi-(S%2FR%2FW)-orange?style=for-the-badge&logo=india&logoColor=white) 🇮🇳 | ![Tamil](https://img.shields.io/badge/Tamil-(S%2FR)-green?style=for-the-badge&logo=tamil-nadu&logoColor=white) 🌴 | ![Malayalam](https://img.shields.io/badge/Malayalam-(S)-purple?style=for-the-badge&logo=kerala&logoColor=white) 🌴 |
-
-
-
-## Hobbies 🎯
-
-| ![DIY Disassembly](https://img.shields.io/badge/DIY_Disassembly-%23FF8C00.svg?style=for-the-badge&logo=tools&logoColor=white) 🔧 | ![Playing Indoor Games](https://img.shields.io/badge/Playing_Indoor_Games-%23008080.svg?style=for-the-badge&logo=game-controller&logoColor=white) 🎲 | ![Listening to Music](https://img.shields.io/badge/Listening_to_Music-%2300CED1.svg?style=for-the-badge&logo=music&logoColor=white) 🎵 | ![Watching Web-Series](https://img.shields.io/badge/Watching_Web_Series-%23D2691E.svg?style=for-the-badge&logo=television&logoColor=white) 📺 |
-|------------------------|-------------------------|-----------------------|-------------------------|
+| ![English](https://img.shields.io/badge/English-(S%2FR%2FW)-blue?style=for-the-badge&logo=globe&logoColor=white) | ![Hindi](https://img.shields.io/badge/Hindi-(S%2FR%2FW)-orange?style=for-the-badge&logo=india&logoColor=white) | ![Tamil](https://img.shields.io/badge/Tamil-(S%2FR)-green?style=for-the-badge&logo=tamil-nadu&logoColor=white)  | ![Malayalam](https://img.shields.io/badge/Malayalam-(S)-purple?style=for-the-badge&logo=kerala&logoColor=white)  |
+|---------|-------|--------|-------|
 
 
 ## Skills 🚀
