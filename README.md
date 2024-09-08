@@ -13,10 +13,10 @@ I'm a highly enthusiastic and sharp learner with impressive listening and speaki
 
 ## 🚀 Skills
 
-| ![MS Excel](https://img.shields.io/badge/MS_Excel-%23107C41.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-%23D35230.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| ![MS Excel](https://img.shields.io/badge/MS_Excel-%23107C41.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-%23D35230.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) |  |
 |-------------|---------------------|----------------------|
 
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | [Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
 |-------------|---------------------|----------------------|
 
 ---
