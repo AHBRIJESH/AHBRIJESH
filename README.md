@@ -2,21 +2,18 @@
 
 I'm a highly enthusiastic and sharp learner with impressive listening and speaking skills. Eagerly looking forward to learn, discover, and innovate in the emerging field of AI and Machine Learning as an AI Engineer Aspirant. 🚀
 
----
 
 ## 🌟 Language Skills
 
 | ![English](https://img.shields.io/badge/English-(S%2FR%2FW)-blue?style=for-the-badge&logo=globe&logoColor=white) | ![Hindi](https://img.shields.io/badge/Hindi-(S%2FR%2FW)-orange?style=for-the-badge&logo=india&logoColor=white) | ![Tamil](https://img.shields.io/badge/Tamil-(S%2FR)-green?style=for-the-badge&logo=tamil-nadu&logoColor=white)  | ![Malayalam](https://img.shields.io/badge/Malayalam-(S)-purple?style=for-the-badge&logo=kerala&logoColor=white)  |
 |---------|-------|--------|-------|
 
----
 
 ## 🚀 Skills
 
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
 |-------------|---------------------|----------------------|--------------------|
 
----
 
 ## 💻 Tech Stack
 
@@ -24,6 +21,5 @@ I'm a highly enthusiastic and sharp learner with impressive listening and speaki
 |--------|--------|--------|--------|--------|--------|--------|
 
 
----
 
 Feel free to reach out for collaboration or further information! 📫
