@@ -19,7 +19,7 @@
 <p align="center">
   <img src="Img/seaborn.png" alt="Seaborn" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/git.png" alt="Git" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Img/mysq.png" alt="MySQL" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Img/mysq.png" alt="MySQL" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/Keras.png" alt="Keras" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/Tensorflow.png" alt="TensorFlow" width="50"/>
 </p>
