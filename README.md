@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td align="center"><img src="Img/Keras.png" alt="Keras" width="100"/></td>
-    <td align="center"><img src="Img/Tensorflow.png" alt="Tensorflow_logo.svg_-1.png" width="100"/></td>
+    <td align="center"><img src="Img/Tensorflow.png" alt="Tensorflow.png" width="100"/></td>
   </tr>
 </table>
 
