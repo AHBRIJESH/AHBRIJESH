@@ -6,7 +6,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="Img/python.png" alt="Python" width="100"/>&nbsp;&nbsp;
+  <img src="Img/python.png" alt="Python" width="100"/>
   <img src="Img/java.png" alt="Java" width="100"/>&nbsp;&nbsp;&nbsp;
   <img src="Img/C.png" alt="C" width="50"/>&nbsp;&nbsp;&nbsp;
   <img src="Img/numpy.png" alt="NumPy" width="50"/>&nbsp;&nbsp;&nbsp;
