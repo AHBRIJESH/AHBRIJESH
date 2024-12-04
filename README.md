@@ -24,8 +24,9 @@
   <img src="Img/Tensorflow.png" alt="TensorFlow" width="50"/>
 </p>
 
-## Contributions
+## Contribution
+<div align= "center">
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 Feel free to reach out for collaboration or further information! 📫
