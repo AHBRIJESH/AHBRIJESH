@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHBRIJESH" alt="GitHub Streak">
+  <img src="(https://streak-stats.demolab.com/?user=AHBRIJESH&theme=dark)(https://git.io/streak-stats)" alt="GitHub Streak">
 </p>
 
 Feel free to reach out for collaboration or further information! 📫
