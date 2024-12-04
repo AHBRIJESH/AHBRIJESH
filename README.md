@@ -6,12 +6,12 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="Img/python.png" alt="Python" width="100" height ="100" style="margin: 10px;"/>
-  <img src="Img/java.png" alt="Java" width="50" style="margin: 10px;"/>
-  <img src="Img/C.png" alt="C" width="50" style="margin: 10px;"/>
-  <img src="Img/numpy.png" alt="NumPy" width="50" style="margin: 10px;"/>
-  <img src="Img/pandas.png" alt="Pandas" width="50" style="margin: 10px;"/>
-  <img src="Img/matplotlib.png" alt="Matplotlib" width="50" style="margin: 10px;"/>
+  <img src="Img/python.png" alt="Python" width="100" height ="100" style="margin: 10;"/>
+  <img src="Img/java.png" alt="Java" width="50" style="margin: 10;"/>
+  <img src="Img/C.png" alt="C" width="50" style="margin: 10;"/>
+  <img src="Img/numpy.png" alt="NumPy" width="50" style="margin: 10;"/>
+  <img src="Img/pandas.png" alt="Pandas" width="50" style="margin: 10;"/>
+  <img src="Img/matplotlib.png" alt="Matplotlib" width="50" style="margin: 10;"/>
 </p>
 
 <p align="center">
