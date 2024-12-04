@@ -9,18 +9,18 @@
   <img src="Img/python.png" alt="Python" width="100"/>
   <img src="Img/java.png" alt="Java" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/C.png" alt="C" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Img/numpy.png" alt="NumPy" width="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="Img/pandas.png" alt="Pandas" width="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="Img/numpy.png" alt="NumPy" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Img/pandas.png" alt="Pandas" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/matplotlib.png" alt="Matplotlib" width="50"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="Img/seaborn.png" alt="Seaborn" width="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="Img/git.png" alt="Git" width="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="Img/mysq.png" alt="MySQL" width="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="Img/Keras.png" alt="Keras" width="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="Img/seaborn.png" alt="Seaborn" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Img/git.png" alt="Git" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Img/mysq.png" alt="MySQL" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Img/Keras.png" alt="Keras" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/Tensorflow.png" alt="TensorFlow" width="50"/>
 </p>
 
