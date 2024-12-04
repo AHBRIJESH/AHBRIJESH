@@ -6,7 +6,7 @@
 
 ## 💻 Tech Stack
 <div align="center">
-<img src="Img/python.png" width="70" height="70" alt="python">
+<img src="Img/python.png" width="100" height="70" alt="python">
 <img src="assets/js.svg" width="55" height="55" alt="js">
 <img src="assets/ts.svg" width="55" height="55" alt="ts">
 
