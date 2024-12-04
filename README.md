@@ -2,7 +2,7 @@
 
 - Email - ahbrijesh2004@gmail.com
 - LinkedIn - www.linkedin.com/in/brijeshah
-- Mobile No - (+916384665931)
+- Mobile No - +91 (6384665931)
 
 ## 💻 Tech Stack
 <div align="center">
