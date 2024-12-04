@@ -5,6 +5,10 @@
 - Mobile No - (+916384665931)
 
 ## 💻 Tech Stack
+<div align="center">
+<img src="img/python.png" width="55" height="55" alt="python">
+<img src="assets/js.svg" width="55" height="55" alt="js">
+<img src="assets/ts.svg" width="55" height="55" alt="ts">
 
 
 Feel free to reach out for collaboration or further information! 📫
