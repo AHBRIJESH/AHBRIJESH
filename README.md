@@ -25,10 +25,7 @@
 </p>
 
 ## Contributions
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) ![GitHub Streak](https://streak-stats.demolab.com?user=AHBRIJESH&theme=dark&hide_border=true)
-<a href="https://dev.to/ahbrijesh">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to Badge">
-</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=A%20H%20BRIJESH&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 Feel free to reach out for collaboration or further information! 📫
