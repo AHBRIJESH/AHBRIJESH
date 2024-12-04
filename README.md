@@ -7,7 +7,7 @@
 ## 💻 Tech Stack
 <div align="center">
 <img src="Img/python.png" width="100" height="70" alt="python">
-<img src="Img/java.png" width="100" height="70" alt="java">
+<img src="Img/java.png" width="100" height="50" alt="java">
 <img src="Img/C.png" width="50" height="50" alt="C">
 
 
