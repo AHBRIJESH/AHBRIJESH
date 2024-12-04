@@ -4,7 +4,7 @@
 - LinkedIn - www.linkedin.com/in/brijeshah
 - Mobile No - +91 (6384665931)
 
-## 💻 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="Img/python.png" alt="Python" width="50" height = "50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/java.png" alt="Java" width="50" height = "70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@
 </p>
 
 ## Contributions
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
