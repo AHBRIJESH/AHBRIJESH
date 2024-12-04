@@ -25,14 +25,9 @@
 </p>
 
 ## My Projects
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
-  </a>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AHBRIJESH&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=AHBRIJESH&theme=dark&hide_border=true)
+
 
 Feel free to reach out for collaboration or further information! 📫
