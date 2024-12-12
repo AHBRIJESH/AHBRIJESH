@@ -28,7 +28,7 @@
 <div align="center">
   
   ![GitHub Stats](https://streak-stats.demolab.com/?user=AHBRIJESH)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH)
 
 </div>
 
