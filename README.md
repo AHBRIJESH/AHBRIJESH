@@ -27,7 +27,7 @@
 ## Contribution
 <div align="center">
   
-  ![GitHub Stats](https://streak-stats.demolab.com/?user=AHBRIJESH&theme=dark&hide_border=true)  
+  ![GitHub Stats](https://streak-stats.demolab.com/?user=AHBRIJESH&color=black)  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark)
 
 </div>
