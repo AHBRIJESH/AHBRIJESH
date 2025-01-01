@@ -27,9 +27,8 @@
 ## Contribution
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AHBRIJESH&show_icons=true&theme=vision-friendly-dark)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH&layout=compact&theme=vision-friendly-dark)
+  ![GitHub Stats](https://streak-stats.demolab.com/?user=AHBRIJESH)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH)
 
 </div>
 
