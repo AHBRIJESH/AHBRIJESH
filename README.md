@@ -2,7 +2,7 @@
 
 - Email - ahbrijesh2004@gmail.com
 - LinkedIn - www.linkedin.com/in/brijeshah
-- Mobile No - +91 (6384665931)
+- Mobile No - +91 6384665931
 
 ## Tech Stack
 <p align="center">
@@ -23,14 +23,5 @@
   <img src="Img/Keras.png" alt="Keras" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/Tensorflow.png" alt="TensorFlow" width="50"/>
 </p>
-
-## Contribution
-<div align="center">
-  
-  ![GitHub Stats](https://streak-stats.demolab.com/?user=AHBRIJESH)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBRIJESH)
-
-</div>
-
 
 Feel free to reach out for collaboration or further information! 📫
