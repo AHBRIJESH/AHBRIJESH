@@ -8,12 +8,12 @@
 
 <p align="center">
   <img src="Img/python.png" alt="Python" width="50" height = "50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Img/java.png" alt="Java" width="50" height = "70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Img/java.png" alt="Java" width="50" height = "50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/C.png" alt="C" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/numpy.png" alt="NumPy" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/pandas.png" alt="Pandas" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Img/matplotlib.png" alt="Matplotlib" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Img/kuberbetes.png" alt="kuberbetes" width="50" height = "170"/>
+  <img src="Img/kuberbetes.png" alt="kuberbetes" width="50" height = "50"/>
 </p>
 
 <br>
